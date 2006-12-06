@@ -5,5 +5,6 @@ lib/InlineX/XS/MM.pm
 Makefile.PL
 MANIFEST			This list of files
 README
-t/InlineX-XS.t
+t/00pod.t
+t/10basic.t
 META.yml                                 Module meta-data (added by MakeMaker)
